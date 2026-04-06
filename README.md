@@ -96,4 +96,4 @@ doc-to-onepage/
 
 ## License
 
-MIT
+people
